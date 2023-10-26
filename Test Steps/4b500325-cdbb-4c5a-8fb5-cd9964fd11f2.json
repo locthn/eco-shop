@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on img object --> navigate to Page product J7HWmUlaKNhsDR7oyaet",
+        "step 3: At Page product J7HWmUlaKNhsDR7oyaet click on div object",
+        "step 4: At Page product J7HWmUlaKNhsDR7oyaet click on div react select 2 option 1",
+        "step 5: At Page product J7HWmUlaKNhsDR7oyaet click on button object --> navigate to Page productjIJ3EsWSN5rT5elgEdF",
+        "step 6: At Page productjIJ3EsWSN5rT5elgEdF click on hyperlink shop --> navigate to Page shop",
+        "step 7: At Page shop  click on div object --> navigate to Page product J7HWmUlaKNhsDR7oyaet",
+        "step 8: Add visual checkpoint at Page product J7HWmUlaKNhsDR7oyaet"
+    ]
+}

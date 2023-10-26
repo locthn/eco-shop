@@ -1,0 +1,19 @@
+Flow ID,Description,Test Steps,Flow Priority
+1,Verify Successful Navigation to Page Product J7hwmulaknhsdr7oyaet,"step 1: Navigate to Page home
+step 2: At Page home click on img object --> navigate to Page product J7HWmUlaKNhsDR7oyaet
+step 3: At Page product J7HWmUlaKNhsDR7oyaet click on div object
+step 4: At Page product J7HWmUlaKNhsDR7oyaet click on div react select 2 option 1
+step 5: At Page product J7HWmUlaKNhsDR7oyaet click on button object --> navigate to Page productjIJ3EsWSN5rT5elgEdF
+step 6: At Page productjIJ3EsWSN5rT5elgEdF click on hyperlink shop --> navigate to Page shop
+step 7: At Page shop  click on div object --> navigate to Page product J7HWmUlaKNhsDR7oyaet
+step 8: Add visual checkpoint at Page product J7HWmUlaKNhsDR7oyaet",High
+4,Verify Successful Navigation to Page Featured,"step 1: Navigate to Page featured
+step 2: Add visual checkpoint at Page featured",Trivial
+3,Verify Successful Navigation to Page Shop,"step 1: Navigate to Page shop
+step 2: Add visual checkpoint at Page shop",Trivial
+6,Verify Successful Navigation to Page Signin,"step 1: Navigate to Page signin
+step 2: Add visual checkpoint at Page signin",Trivial
+2,Verify Successful Navigation to Page Signup,"step 1: Navigate to Page signup
+step 2: Add visual checkpoint at Page signup",Trivial
+5,Verify Successful Navigation to Page Recommended,"step 1: Navigate to Page recommended
+step 2: Add visual checkpoint at Page recommended",Trivial
